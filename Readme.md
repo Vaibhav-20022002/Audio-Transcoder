@@ -18,7 +18,7 @@ This project is a simple audio transcoder that converts any audio file to AAC fo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/audio-transcoder-to-aac.git
+   git clone https://github.com/Vaibhav-20022002/Audio-Transcoder.git
    cd audio-transcoder-to-aac
    ```
 
