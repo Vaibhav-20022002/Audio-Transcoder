@@ -10,7 +10,7 @@ This project is a simple audio transcoder that converts any audio file to AAC fo
 
 ## Prerequisites
 
-- FFMPEG/LibAV installed on your system
+- FFMPEG installed on your system (FFMPEG version: 4.3.1)
 - C compiler (e.g., GCC)
 
 ## Installation
